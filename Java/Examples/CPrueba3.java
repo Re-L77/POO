@@ -1,3 +1,4 @@
+package Examples;
 public class CPrueba3 {
     public static double sumar(double v1, double v2) {
             return v1 + v2;

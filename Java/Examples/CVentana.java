@@ -1,3 +1,4 @@
+package Examples;
 import java.awt.*;
 import javax.swing.*;
 public class CVentana extends JFrame {

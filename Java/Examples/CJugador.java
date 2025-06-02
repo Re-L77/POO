@@ -1,3 +1,4 @@
+package Examples;
 public class CJugador {
     int id;
     String nombre;

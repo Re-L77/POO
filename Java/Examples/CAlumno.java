@@ -1,3 +1,4 @@
+package Examples;
 public class CAlumno {
     int matricula;
     String nombre;

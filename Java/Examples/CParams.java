@@ -1,3 +1,4 @@
+package Examples;
 public class CParams {
     public static void main(String[] args) {
         if (args.length == 0) {

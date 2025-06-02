@@ -1,3 +1,4 @@
+package Examples;
 public class Cprueba {
     public static void main(String[] args) {
         // CAlumno a1 = new CAlumno();
