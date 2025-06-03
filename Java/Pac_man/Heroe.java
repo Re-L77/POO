@@ -12,9 +12,9 @@ public class Heroe extends Personaje {
     }
 
     void comer(int fichas) {
-        System.out.println(nombre + "come" + fichas + " fichas");
+        System.out.println(nombre + " come " + fichas + " fichas");
     }
-
+    
     void comer(Enemigo e) {
         System.out.println(nombre + " come a " + e.nombre);
     }

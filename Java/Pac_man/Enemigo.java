@@ -8,5 +8,5 @@ public class Enemigo extends Personaje {
 
     void comer(Heroe h) {
         System.out.println(nombre + " come a " + h.nombre);
-    }
+    }    
 }
