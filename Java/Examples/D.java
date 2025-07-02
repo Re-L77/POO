@@ -7,6 +7,6 @@ public class D extends B{
         System.out.println("UPQ");
     }
     public static void main(String[] args) {
-        D obj = new D();
+       // D obj = new D();
     }
 }

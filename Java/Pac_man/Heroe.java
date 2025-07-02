@@ -19,7 +19,4 @@ public class Heroe extends Personaje {
         System.out.println(nombre + " come a " + e.nombre);
     }
 
-    void comer (Fruta f){
-        System.out.println(nombre + " come una " + f.nombre);
-    }
 }
